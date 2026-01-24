@@ -1,4 +1,4 @@
-# 📊 Customer Lifetime Value, Cohort & Funnel Analysis (Python)
+# 📊 Customer Lifetime Value, Cohort and Funnel Analysis (Python)
 
 ## 📌 Project Overview
 
